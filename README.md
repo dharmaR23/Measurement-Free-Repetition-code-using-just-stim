@@ -1,9 +1,3 @@
-# Measurement-Free-Repetition-code-using-just-stim
-Here is a professional `README.md` tailored for your repository. It highlights the novelty of your approach (systematic noise + Toffoli mimicry) while including the disclaimer you requested to set clear expectations for viewers.
-
-You can copy and paste this directly into your GitHub repository.
-
----
 
 # Measurement-Free Quantum Error Correction (MFQEC) Simulation
 
