@@ -33,7 +33,7 @@ The simulation is built around a "Chunked Circuit" architecture:
 
 ## Simulation Results
 
-Preliminary runs with `rounds=1` demonstrate the expected **exponential suppression** of logical error rates as the code distance increases from  to .
+Preliminary runs with `rounds=1` demonstrate the expected **exponential suppression** of logical error rates as the code distance increases .
 
 
 This serves as a sanity check. 
